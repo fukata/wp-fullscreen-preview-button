@@ -17,8 +17,7 @@ Latest Source: http://github.com/fukata/wp-fullscreen-preview-button/
 == Installation ==
 
 1. Download the plugin, unpack it and upload the 'wp-fullscreen-preview-button' folder to your wp-content/plugins directory.
-2. To grant write access to wp-content/plugins/wp-fullscreen-preview-button/cache. 
-3. Activate the plugin through the 'Plugins' menu in WordPress.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
 
