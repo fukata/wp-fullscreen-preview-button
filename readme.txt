@@ -4,7 +4,7 @@ Donate link: http://fukata.org/
 Tags: fulscreen,preview
 Requires at least: 3.2.0
 Tested up to: 3.2.1
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 
 Add preview button at fullscreen writing mode.
 
@@ -28,6 +28,9 @@ None
 1. Preview Button 
 
 == Changelog ==
+= 0.1.1 =
+* Implementation i18n 
+
 = 0.1.0 =
 * First Release 
 
