@@ -4,7 +4,7 @@ Donate link: http://fukata.org/
 Tags: fulscreen,preview
 Requires at least: 3.2.0
 Tested up to: 3.2.1
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 
 フルスクリーンモード時にプレビューボタンを追加します。
 
@@ -28,6 +28,9 @@ Stable tag: 0.1.0
 1. プレビューボタン 
 
 == Changelog ==
+= 0.1.1 =
+* 国際化に対応 
+
 = 0.1.0 =
 * 初回リリース 
 

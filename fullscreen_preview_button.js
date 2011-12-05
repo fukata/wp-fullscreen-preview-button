@@ -1,6 +1,6 @@
 (function($){
 	$(function(){
-		if ($('#wp-fullscreen-save').size() == 0) {
+		if ($('#wp-fullscreen-save').size() == 0 || $('#post-preview').size() == 0) {
 			return;
 		}
 
@@ -13,7 +13,7 @@
 		var $previewButton = $(document.createElement('input'));
 		$previewButton.attr({
 			type: 'button',
-			value: 'Preview',
+			value: $('#post-preview').text(), 
 		});
 		$previewButton.addClass('button');
 		$previewButton.click(function(){
