@@ -3,7 +3,7 @@
 Plugin Name: wp-fullscreen-preview-button
 Plugin URI: http://fukata.org/dev/wp-plugin/wp-fullscreen-preview-button/
 Description: Add preview button at fullscreen writing mode.
-Version: 0.1.0
+Version: 0.1.1
 Author: Tatsuya Fukata
 Author URI: http://fukata.org
 */
